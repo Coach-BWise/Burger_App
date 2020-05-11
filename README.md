@@ -1,1 +1,21 @@
 # Burger_App
+
+## Overview
+
+This App is a build to show competence in Express Handlebars.
+Visit the deployed version [here](https://coach-bwise.github.io/click/).
+
+## Objective
+
+The App allows the user to type in an item and click submit. This will render the item to the page. Once rendered, you user can click a button to "Eat it" this will show to the Eaten side.
+
+## Created with
+
+- [Node](https://nodejs.org/en/)
+- [Express](https://www.npmjs.com/package/express)
+- [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
+- [MySql](https://www.mysql.com/)
+
+## Author
+
+**Bryan Wise**
