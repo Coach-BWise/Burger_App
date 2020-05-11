@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Coach-BWise/Burger_App/issues"
   },
-  "homepage": "https://github.com/Coach-BWise/Burger_App#readme",
+  "homepage": "https://wiseburger.herokuapp.com/",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
