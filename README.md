@@ -9,7 +9,7 @@ Visit the deployed version [here](https://wiseburger.herokuapp.com/).
 
 The App allows the user to type in an item and click submit. This will render the item to the page. Once rendered, you user can click a button to "Eat it" this will show to the Eaten side.
 
-![Demo](./public/gif)
+![Demo](./public/giphy.gif)
 
 ## Created with
 
